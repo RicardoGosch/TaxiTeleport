@@ -1,0 +1,31 @@
+name: TaxiTeleport
+version: 2.0
+author: Ricardo Gosch
+main: net.walkingcraft.TaxiTeleport
+commands:
+  home:
+    description: Usado para teleportar para uma home, ou listar todas elas.
+  sethome:
+    description: Usado para criar uma home.
+  delhome:
+    description: Usado para deletar uma home.
+    
+permissions:
+  rank.normal:
+    description:
+  rank.carl:
+    description:
+  rank.maggie:
+    description:
+  rank.gleen:
+    description:
+  rank.michonne:
+    description:
+  rank.rick:
+    description:
+  rank.staff:
+    description:
+  rank.staff.dono:
+    description:
+  rank.vip:
+    description:
